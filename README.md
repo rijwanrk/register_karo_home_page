@@ -21,7 +21,7 @@ Register Karo Homepage is a modern and responsive web application built using Re
 
 ## Photos
 
-![App Screenshot](https://drive.google.com/file/d/198gqus3I-FrWWa98cJyx9z0xPRE92hQ8/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/fbf748f9-48f3-4567-9cac-1f2e52326fa3)
 ![App Screenshot](https://drive.google.com/file/d/1i7UdkGE4A1tucXl0YlHrRWm-JWfXPGjR/view?usp=drive_link)
 ![App Screenshot](https://drive.google.com/file/d/1j5WNExr7kkT9Fn3a5FCFpfipv1KhrWL5/view?usp=drive_link)
 ![App Screenshot](https://drive.google.com/file/d/1q2IBP_2wEjuGWrCFRX4OeA1CgiT7jKcQ/view?usp=drive_link)
