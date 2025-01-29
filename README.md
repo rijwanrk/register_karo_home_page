@@ -22,12 +22,11 @@ Register Karo Homepage is a modern and responsive web application built using Re
 ## Photos
 
 ![Image](https://github.com/user-attachments/assets/fbf748f9-48f3-4567-9cac-1f2e52326fa3)
-![App Screenshot](https://drive.google.com/file/d/1i7UdkGE4A1tucXl0YlHrRWm-JWfXPGjR/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1j5WNExr7kkT9Fn3a5FCFpfipv1KhrWL5/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1q2IBP_2wEjuGWrCFRX4OeA1CgiT7jKcQ/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1CXGWgbblrjSQavPYL98M-YXLaqCAOPCG/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1a7lSBY46fdzU0dhL88ebpk3nVoahD5n5/view?usp=drive_link)
-
+![Image](https://github.com/user-attachments/assets/7d96e475-f4b4-4000-9ea0-1667de31afe9)
+![Image](https://github.com/user-attachments/assets/1ad738e0-d3f1-41fa-9086-953238714ae7)
+![Image](https://github.com/user-attachments/assets/9b83917a-4c2f-4570-bbaa-f1babc975659)
+![Image](https://github.com/user-attachments/assets/02941427-5348-4280-abae-517ea6cd7aaa)
+![Image](https://github.com/user-attachments/assets/dd20479a-5677-4d9a-bb4b-33efc9eafba6)
 ## Tech Stack
 
 **Client:** React, TailwindCSS
@@ -64,6 +63,6 @@ npm run start
 
 
 ## 📊 Performance Optimization
-![PageSpeed Desktop](https://drive.google.com/file/d/1KmW2kR-yhw8TixEJgvSDzhyHZOeg6e5z/view?usp=drive_link)
-![pagespeed Phone](https://drive.google.com/file/d/16jyeXuVH6H-53OdJp-pO23io2OtRsQgA/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/425b2ddb-b06e-414f-97d9-43700d681e97)
+![Image](https://github.com/user-attachments/assets/fe2bab85-60bc-435a-8cbe-8597ab6a410d)
 
